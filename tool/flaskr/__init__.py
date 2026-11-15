@@ -21,3 +21,7 @@ def create_app(test_config=None):
     @app.route('/')
     def index():
         return redirect(url_for('auth.login'))
+
+    def create_app(test_config=None):
+        app = Flask(__name__, instance_relative_config=True)
+    return app
