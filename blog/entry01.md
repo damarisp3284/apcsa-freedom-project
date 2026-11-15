@@ -1,11 +1,11 @@
 # Entry 1
 ##### 11/13/26
 
-### Introduction 
+### Introduction + Plan 
 
 As we have started a brand new school year which means a brand new start for a **Freedom Project**! But the twist is that now going onto my senior year, we have the freedom to choose whatever tool we would like to pick compared to previous years that we have to pick a tool based on our coding language or options available. With this in mind I still wanted to create something **Cybersecurity** relate as I reflected on last year and despite my project being on the *HSTAT SEP* website I still wanted to make something better than what I have created for **SEP 11**.
 
-Then when we have received a list of suggestions for tools I have found interest between **JavaFX** and **Flask**, JavaFX is more based on Java which is what we are currently learning while Flask based on python. Because these can't be run within my Chromebook I had to borrow a Macbook from my school's tech office. When I started to tinker with both I first came upon alot of problems with JavaFX as I could 
+Then when we have received a list of suggestions for tools I have found interest between **JavaFX** and **Flask**, JavaFX is more based on Java which is what we are currently learning while Flask based on python. Because these can't be run within my Chromebook I had to borrow a Macbook from my school's tech office. When I started to tinker with both I first came upon a lot of problems with JavaFX with adding it onto my IDE
 
 
 
