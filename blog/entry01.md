@@ -17,9 +17,13 @@ I started to tinker with flask the guide on the documentation was easy to follow
 
 Then I started to explore more while still following the guide which ended me up with 
 
+---
+
 ### EDP
 
 Im currently between 3 of the EDP as I have already researched about my tool but now I am starting to brainstorm how I would like my project to look like. Knowing my topic I still want to find other projects for inspiration and study more on what I can build in with Flask.
+
+---
 
 ### Skills
 
