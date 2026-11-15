@@ -17,6 +17,10 @@ I started to tinker with flask the guide on the documentation was easy to follow
 
 Then I started to explore more while still following the guide which ended me up with 
 
+<img width="982" height="339" alt="Screenshot 2026-11-15 at 12 28 20 AM" src="https://github.com/user-attachments/assets/8cc83215-eb76-4f0d-ae81-3fcc64478947" />
+
+
+
 ---
 
 ### EDP
