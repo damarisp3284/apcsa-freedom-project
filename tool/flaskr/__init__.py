@@ -1,5 +1,5 @@
 import os
-from flask import Flask
+from flask import Flask, redirect, url_for
 
 def create_app(test_config=None):
     app = Flask(__name__, instance_relative_config=True)
@@ -20,5 +20,4 @@ def create_app(test_config=None):
 
     @app.route('/')
     def index():
-        return 'Flaskr is running!'
-    return app
+        return redirect(url_for('auth.login'))
