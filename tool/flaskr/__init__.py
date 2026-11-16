@@ -25,3 +25,13 @@ def create_app(test_config=None):
     def create_app(test_config=None):
         app = Flask(__name__, instance_relative_config=True)
     return app
+
+def create_app():
+    app = ...
+    # existing code omitted
+
+    from . import blog
+    app.register_blueprint(blog.bp)
+    app.add_url_rule('/', endpoint='index')
+
+    return app
