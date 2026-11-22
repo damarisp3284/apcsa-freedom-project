@@ -18,36 +18,16 @@ def create_app(test_config=None):
         app.config.from_mapping(test_config)
 
     # ensure the instance folder exists
-    os.makedirs(app.instance_path, exist_ok=True)
-
-    # a simple page that says hello
-    @app.route('/hello')
-    def hello():
-        return 'Hello, World!'
-
-    return app
-
-def create_app():
-    app = Flask(__name__, instance_relative_config=True)
-    # existing code omitted
+    try:
+        os.makedirs(app.instance_path)
+    except OSError:
+        pass
 
     from . import db
     db.init_app(app)
 
-    return app
-
-def create_app():
-    app = Flask(__name__, instance_relative_config=True)
-    # existing code omitted
-
     from . import auth
     app.register_blueprint(auth.bp)
-
-    return app
-
-def create_app():
-    app = Flask(__name__, instance_relative_config=True)
-    # existing code omitted
 
     from . import blog
     app.register_blueprint(blog.bp)
