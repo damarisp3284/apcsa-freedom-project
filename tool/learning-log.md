@@ -15,11 +15,20 @@
 * <a href = "https://youtu.be/5aYpkLfkgRE?si=7Y1ZN2_yXv7xecFX"> Flask tutorial</a>
 * <a href = "https://youtu.be/AgVqsmz-ZW4?si=VzCykoBWpgT25WVC"> Intro into Flask</a>
 
+---
 
+### 11/22/26:
+* Started to follow a template for beginners in the flask documentary
+* After managing to have the register screen load up
+* Had some difficulties with trying to load it but I have managed to create a log in, sign up, and post sites
+* I will try and attempt to find other templates or tutorials and recreate them as my own version but also learn some python as I believe it will be helpful for my tool and take notes.
 
+<img width="983" height="334" alt="Screenshot 2026-11-22 at 5 20 47 PM" src="https://github.com/user-attachments/assets/376f1205-05ee-4f76-bf6f-a5ce686d8bcb" />
 
-### 11/3/26:
-* Started to follow tutorials and learn more about python 
+<img width="1000" height="502" alt="Screenshot 2026-11-22 at 5 20 05 PM" src="https://github.com/user-attachments/assets/d254e7b4-6a30-488f-ad93-0be02072c33e" />
+
+<img width="982" height="239" alt="Screenshot 2026-11-15 at 12 28 20 AM" src="https://github.com/user-attachments/assets/ae9c9317-e216-4a80-b54f-1ce7419f801c" />
+
 
 
 <!-- 
