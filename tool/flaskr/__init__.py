@@ -28,7 +28,7 @@ def create_app(test_config=None):
     return app
 
 def create_app():
-    app = ...
+    app = Flask(__name__, instance_relative_config=True)
     # existing code omitted
 
     from . import db
@@ -37,7 +37,7 @@ def create_app():
     return app
 
 def create_app():
-    app = ...
+    app = Flask(__name__, instance_relative_config=True)
     # existing code omitted
 
     from . import auth
@@ -46,7 +46,7 @@ def create_app():
     return app
 
 def create_app():
-    app = ...
+    app = Flask(__name__, instance_relative_config=True)
     # existing code omitted
 
     from . import blog
