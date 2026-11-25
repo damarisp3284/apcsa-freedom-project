@@ -29,7 +29,9 @@
 
 <img width="982" height="239" alt="Screenshot 2026-11-15 at 12 28 20 AM" src="https://github.com/user-attachments/assets/ae9c9317-e216-4a80-b54f-1ce7419f801c" />
 
+---
 
+### 11/25/26
 
 <!-- 
 * Links you used today (websites, videos, etc)
