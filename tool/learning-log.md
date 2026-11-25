@@ -32,6 +32,9 @@
 ---
 
 ### 11/25/26
+* After using a demo on Flask I decided to look around and find examples to then tinker then into my own version.
+*
+*
 
 <!-- 
 * Links you used today (websites, videos, etc)
