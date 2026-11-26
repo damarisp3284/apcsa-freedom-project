@@ -34,10 +34,15 @@
 ### 11/25/26
 * After using a demo on Flask I decided to look around and find examples to then tinker then into my own version.
 * Looking back at an old tutorial I found I decide to tinker and make my own meme website from <a href = "https://youtu.be/5aYpkLfkgRE?si=7Y1ZN2_yXv7xecFX"> Flask tutorial</a>.
-*  <img width="1180" height="734" alt="Screenshot 2026-11-25 at 11 05 47 PM" src="https://github.com/user-attachments/assets/277e3ecf-076d-4fe9-ac71-780de08c3a97" />
+* <img width="1180" height="734" alt="Screenshot 2026-11-25 at 11 05 47 PM" src="https://github.com/user-attachments/assets/277e3ecf-076d-4fe9-ac71-780de08c3a97" />
 * <img width="624" height="554" alt="Screenshot 2026-11-26 at 12 16 47 AM" src="https://github.com/user-attachments/assets/12456e7d-3cec-4442-a306-f4281d7c560f" />
-*<img width="516" height="642" alt="Screenshot 2026-11-26 at 12 15 53 AM" src="https://github.com/user-attachments/assets/eecec41a-6435-4ad9-9514-e8b9f7418501" />
-* Created a botton where each time you click on it, it will generate a different meme 
+* <img width="516" height="642" alt="Screenshot 2026-11-26 at 12 15 53 AM" src="https://github.com/user-attachments/assets/eecec41a-6435-4ad9-9514-e8b9f7418501" />
+* Created a botton where each time you click on it, it will generate a different meme
+* <img width="1188" height="629" alt="Screenshot 2026-11-26 at 12 18 37 AM" src="https://github.com/user-attachments/assets/0d583377-0aec-4ed2-98b0-48bf27ffd127" />
+* <img width="757" height="411" alt="Screenshot 2026-11-26 at 12 19 21 AM" src="https://github.com/user-attachments/assets/b3d45e7f-1d58-40c9-92b4-7e6deefcc068" />
+* <img width="1408" height="881" alt="Screenshot 2026-11-26 at 12 20 03 AM" src="https://github.com/user-attachments/assets/2ebbdc22-1ef7-4bc2-aaff-cce5e826f2ee" />
+
+
 
 
 
