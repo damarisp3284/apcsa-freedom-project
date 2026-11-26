@@ -1,20 +1,14 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>
-            Meme Website
-        </title>
-        <meta name="viewport" content=""width=device-width, initial-scale="1">
-        <meta http-equiv=""refresh content="30;url=http://127.0.0.1:5000/" />
-        <style>
-            body {background-color:#000000; background-repeat:no-repeat; background-position: top left;}
-            h1{text-align:center;font-family:Arial,sans-serif;color:#ffffff;background-color:#000000;}
-            p{text-align:center;font-family:Georgia, serif;font: size 48px;font-style:normal; font-weight:200px;}
-        </style>
-    </head>
-    <body>
-        <h1>A website to gather some memes!</h1>
-        <p>Here is your meme! This will refresh 25 seconds!</p>
-        <p><img scr="{{meme_pic}}"></p>
-        <p>Current subreddit: {{subreddit}}</p>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <title>Meme Website</title>
+</head>
+<body>
+    <h1>A website to gather some memes!</h1>
+    <p>Here is your meme from: {{ subreddit }}</p>
+    <img src="{{ meme_pic }}" alt="Meme" style="max-width: 500px;">
+    <br><br>
+    <button onclick="window.location.reload();">New Meme</button>
+</body>
 </html>

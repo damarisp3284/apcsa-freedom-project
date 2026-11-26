@@ -1,19 +1,19 @@
 from flask import Flask, render_template
-import requests
-import json
+import random
 
 app = Flask(__name__)
 
-def get_meme():
-    url = ("https://meme-api")
-    response = json.loads(requests.request("GET", url).text)
-    meme_large = response["previwe"][-2]
-    subreddit = response["subreddit"]
-    return meme_large, subreddit
+MEMES = [
+    ("https://imgflip.com", "One Does Not Simply"),
+    ("https://imgflip.com", "Aliens")
+    ("https://imgflip.com", "Sleeping Shaq"),
+    ("https://imgflip.com", "Community Fire Pizza"),
+    ("https://imgflip.com", "Math Lady")
+    ]
 
 @app.route("/")
 def index():
-    meme_pic,subreddit = get_meme()
+    meme_pic,subreddit = random.choice(MEMES)
     return render_template("meme_index.html", meme_pic=meme_pic, subreddit=subreddit)
 
 if __name__ == "__main__":
