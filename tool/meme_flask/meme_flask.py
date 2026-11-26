@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 
 def get_meme():
-    url = "https://meme-api"
+    url = ("https://meme-api")
     response = json.loads(requests.request("GET", url).text)
     meme_large = response["previwe"][-2]
     subreddit = response["subreddit"]
