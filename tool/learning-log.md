@@ -33,8 +33,8 @@
 
 ### 11/25/26
 * After using a demo on Flask I decided to look around and find examples to then tinker then into my own version.
-*
-*
+* Looking back at an old tutorial I found I decide to tinker and make my own meme website from <a href = "https://youtu.be/5aYpkLfkgRE?si=7Y1ZN2_yXv7xecFX"> Flask tutorial</a>.
+*  
 
 <!-- 
 * Links you used today (websites, videos, etc)
