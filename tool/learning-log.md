@@ -34,7 +34,12 @@
 ### 11/25/26
 * After using a demo on Flask I decided to look around and find examples to then tinker then into my own version.
 * Looking back at an old tutorial I found I decide to tinker and make my own meme website from <a href = "https://youtu.be/5aYpkLfkgRE?si=7Y1ZN2_yXv7xecFX"> Flask tutorial</a>.
-*  
+*  <img width="1180" height="734" alt="Screenshot 2026-11-25 at 11 05 47 PM" src="https://github.com/user-attachments/assets/277e3ecf-076d-4fe9-ac71-780de08c3a97" />
+* <img width="624" height="554" alt="Screenshot 2026-11-26 at 12 16 47 AM" src="https://github.com/user-attachments/assets/12456e7d-3cec-4442-a306-f4281d7c560f" />
+*<img width="516" height="642" alt="Screenshot 2026-11-26 at 12 15 53 AM" src="https://github.com/user-attachments/assets/eecec41a-6435-4ad9-9514-e8b9f7418501" />
+* Created a botton where each time you click on it, it will generate a different meme 
+
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
