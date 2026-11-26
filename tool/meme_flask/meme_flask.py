@@ -5,8 +5,8 @@ app = Flask(__name__)
 
 MEMES = [
     ("/static/cat.jpg", "Sleeping Cat"),
-    ("https://imgflip.com", "Scared Hamster"),
-    ("https://imgflip.com", "Math Lady")
+    ("/static/hamster.jpg", "Scared Hamster"),
+    ("/static/lady.jpg", "Math Lady")
     ]
 
 @app.route("/")
